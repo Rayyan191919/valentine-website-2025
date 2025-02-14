@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Cool Cool Cool Cool Cool Cool Cool Cool Cool Cool OKAY I AM FREAKING OUT YOSSSSSSSSSSSS 🎉💝💖💝💓",
+        title: "Cool Cool Cool Cool Cool Cool Cool Cool Cool Cool OKAY I AM FREAKING OUT YOSSSSSSSSSSSS 🛼🐧🛹💝💓",
         message: "Okay as a gift ab teri nose chaba jaunga hehe",
         emojis: "💖😋😋😋😋💕"  // These will bounce around
     },
